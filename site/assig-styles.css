@@ -1,0 +1,99 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+	padding-top: 25px;
+	margin-bottom: 35px;
+}
+.navbar-brand h1{
+	font-family: "Lora", serif;
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.navbar-header, #header-nav > .container{
+	margin-left: 0;
+}
+.navbar-header button.navbar-toggle{
+	margin-top: 20px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid #61122f;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #951C49;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+#nav-list a span{
+	font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid #61122f;
+}
+.navbar-header button.navbar-toggle{
+	clear: both;
+}
+#collapsable-nav a{
+	font-size: 1.2em;
+}
+h1{
+	text-align: center;
+	font-family: "Lora", serif;
+	color: #557c3e;
+	font-size: 3.0em;
+	text-shadow: 1px 1px 1px #222;
+}
+
+#subcontent{
+	height: 1000px;
+	background-color: #808080;
+	overflow: scroll;
+	margin-bottom: 20px;
+}
+#heading1, #heading2, #heading3{
+	text-align: center;
+	font-family: "Lora", serif;
+	color: #557c3e;
+	font-size: 2em;
+	text-shadow: 1px 1px 1px #222;
+}
+#chicken, #Beef, #sushi{
+	font-family: "Lora", serif;
+	color: #FFD700;
+	margin-top: 30px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#subcontent2{
+	height: 1000px;
+	background-color: #808080;
+	overflow: scroll;
+	margin-bottom: 20px;
+}
+#subcontent3{
+	height: 1200px;
+	background-color: #808080;
+	overflow: scroll;
+	margin-bottom: 20px;
+}
